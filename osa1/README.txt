@@ -1,0 +1,1 @@
+Fullstack kursin osa1 tehtävät löytyvät tästä kansiosta.
